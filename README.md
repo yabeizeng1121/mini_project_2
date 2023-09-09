@@ -5,7 +5,7 @@ This is a Python script for the IDS706 Mini Project 2. The script reads a CSV da
 
 ## Getting Started
 
-Setting a copy of the project up and running on your local machine for development and testing purposes.
+Setting a copy of the project up and running on your local machine for development and testing purposes. Make sure the csv file and the file you want to run are within the same directory, or else you may need to specify the file path in the main.py
 
 ## Prerequisites
 
