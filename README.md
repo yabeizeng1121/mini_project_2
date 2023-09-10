@@ -42,5 +42,7 @@ python test_main.py
 
 ![project2_histogram](https://github.com/yabeizeng1121/mini_project_2/assets/143656459/dbbaef2c-d68c-4b8d-b59f-3de43f6f00ca)
 ![project2_data_summary](https://github.com/yabeizeng1121/mini_project_2/assets/143656459/63ece4a8-1697-440a-9fc7-8fd45b7b0a6c)
+![lint](https://github.com/yabeizeng1121/mini_project_2/assets/143656459/1dbebfe0-586e-4257-a22b-3c3a81d13ada)
+![test](https://github.com/yabeizeng1121/mini_project_2/assets/143656459/daff0230-5d45-41c1-a2db-71bd58d39776)
 
 
